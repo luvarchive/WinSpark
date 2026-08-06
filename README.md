@@ -1,4 +1,4 @@
-# QuickSetup
+# WinSpark
 
 A simple GUI tool for setting up a new Windows PC fast. Pick the apps you want from a checklist, hit install, and it handles the rest using [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) (Windows Package Manager).
 
