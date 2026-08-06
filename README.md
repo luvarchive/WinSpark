@@ -9,12 +9,10 @@ No manually hunting down installers from a dozen different websites.
 Open **PowerShell as Administrator** and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/Install-Essentials-GUI.ps1 | iex
+irm https://raw.githubusercontent.com/luvarchive/WinSpark/refs/heads/main/Install-Essentials-GUI.ps1| iex
 ```
 
 That's it — no download, no setup. It pulls the script and runs it directly.
-
-> Replace `YOUR-USERNAME/YOUR-REPO` with your actual GitHub path once this is uploaded.
 
 ## What it does
 
